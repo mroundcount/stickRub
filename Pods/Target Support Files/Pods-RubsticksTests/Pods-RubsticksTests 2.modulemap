@@ -1,0 +1,6 @@
+framework module Pods_RubsticksTests {
+  umbrella header "Pods-RubsticksTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
